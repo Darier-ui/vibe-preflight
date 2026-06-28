@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Preflight"
+  short_description: "Guide AI coding agents with lightweight or full preflight"
+  default_prompt: "Use $vibe-preflight to turn a vague app idea into a lightweight or full project plan before writing code."
